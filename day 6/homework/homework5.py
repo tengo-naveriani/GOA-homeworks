@@ -1,0 +1,6 @@
+age=int(input('enter age'))
+height=int(input('enter height'))
+print(height/age)
+print(height*age)
+print(height+age)
+print(height-age)
